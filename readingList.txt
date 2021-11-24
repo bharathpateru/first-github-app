@@ -3,7 +3,3 @@
 3. aws
 4. docker
 5. kubernatese
-6. Terraform
-7. Ansible
-8. EC2
-9. Angular
